@@ -1,5 +1,0 @@
-host = "qsfx25gtvbe7qa3.mdb.yandexcloud.net"
-user = "bizkit_666"
-password = "Pfbrflv1994"
-db_name = "dterra"
-port = "6432"
