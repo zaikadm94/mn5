@@ -1,4 +1,4 @@
-host = "rc1b-5qsfx25gtvbe7qa3.mdb.yandexcloud.net"
+host = "qsfx25gtvbe7qa3.mdb.yandexcloud.net"
 user = "bizkit_666"
 password = "Pfbrflv1994"
 db_name = "dterra"
